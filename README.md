@@ -1,2 +1,3 @@
-# parse_estate
-Parse prices of PIK and RG development 
+# Scraping of real estate prices in Moscow
+Парсинг цен на конкретные квартиры двух застройщиков для оценки изменения цены.
+Цены сохраняются в excel файл, по которому удобно отслеживать изменение цен.
